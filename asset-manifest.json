@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/havaman/static/css/main.3c095416.css",
+    "main.js": "/havaman/static/js/main.1bf99e9e.js",
+    "static/media/bg.jpg": "/havaman/static/media/bg.2199f5a30a6a425b45a0.jpg",
+    "index.html": "/havaman/index.html",
+    "main.3c095416.css.map": "/havaman/static/css/main.3c095416.css.map",
+    "main.1bf99e9e.js.map": "/havaman/static/js/main.1bf99e9e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c095416.css",
+    "static/js/main.1bf99e9e.js"
+  ]
+}
